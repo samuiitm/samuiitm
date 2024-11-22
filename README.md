@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="ttps://giphy.com/embed/bNE9TpOiE4lAM3VQiV" width="300" />
+  <img src="https://giphy.com/embed/bNE9TpOiE4lAM3VQiV](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZjeHNtd3FxY3A1Y21ycDBkd2tvM3h6MWh6aW40cnZpZmxiMmRpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bNE9TpOiE4lAM3VQiV/giphy-downsized-large.gif" width="300" />
   <h1 align="center">Hi, I'm samuiitm👋</h1>
 </div>
 
