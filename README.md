@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="" width="300" />
+  <h1 align="center">Hi, I'm samuiitm👋</h1>
+</div>
+
 ## Hi there 👋
 
 <!--
