@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="" width="300" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVqanl1bDgybnp6cjNtNmJoaDFxaXpqeDRmaHlqNzhoeG5ueTIwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bNE9TpOiE4lAM3VQiV/giphy-downsized-large.gif" width="300" />
   <h1 align="center">Hi, I'm samuiitm👋</h1>
 </div>
 
