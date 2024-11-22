@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZjeHNtd3FxY3A1Y21ycDBkd2tvM3h6MWh6aW40cnZpZmxiMmRpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bNE9TpOiE4lAM3VQiV/giphy.webp" width="300" />
+  <img src="https://gepig.com/game_cover_bg_1190w/7372.jpg" />
   <h1 align="center">Hi, I'm samuiitm👋</h1>
 </div>
 
