@@ -1,5 +1,5 @@
 <a href="https://github.com/samuiitm/samuiitm">
-  <img alt="SAMUIITM'S BANNER" src="https://raw.githubusercontent.com/samuiitm/samuiitm/refs/heads/main/IMG/samuiitm%20-%20GitHub%20Banner.png">
+  <img alt="SAMUIITM'S BANNER" src="https://raw.githubusercontent.com/samuiitm/samuiitm/refs/heads/main/IMG/samuiitm%20-%20Aspiring%20Developer%20GitHub%20Banner.png">
 </a>
 <br><br>
 
