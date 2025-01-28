@@ -3,7 +3,7 @@
 </a>
 <br><br>
 
-<p>
+<p align="center">
   <a href="https://samuiitm.github.io/"><img width="38px" alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/samuiitm/samuiitm/df67158628f7077d85f23578bfdbff2b5ab5ca7f/IMG/icon-github.svg"/></a>
   &#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/scanadas/"><img width="38px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/samuiitm/samuiitm/df67158628f7077d85f23578bfdbff2b5ab5ca7f/IMG/icon-linkedin.svg"/></a>
