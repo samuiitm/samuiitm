@@ -26,7 +26,7 @@
   <li>🌱 I’m currently learning <b>Java, MySQL</b></li>
   <li>📫 How to reach me: <b>samuelcanadas@gmail.com</b></li>
   <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1RwIUe1jlVxw4VjlunibFwAyJ40txAgaD/view?usp=sharing"><b>[CV]</b></a></li>
-  <li>⚡ My <b>dream</b> is to become a developer at <b>Naughty Dog</b></li>
+  <li>⚡ My <b>dream</b> is to become a Digital Forensic at the <b>Spanish National Police</b></li>
 </ul>
 
 <h2>Languages and Tools:</h2>
